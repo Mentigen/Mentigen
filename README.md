@@ -10,17 +10,27 @@
 - Studying **Software Engineering** at ITMO University
 - Currently diving deep into **Java** and **Go**
 - Daily-driving Linux (CachyOS + Hyprland)
-- Reach me: **Kis-Ilya-A@ya.ru** · Telegram [**@mentigen**](https://t.me/Mentigen)
+- Reach me: **Kis-Ilya-A@ya.ru** · Telegram **@mentigen**
 
 ---
 
-### 🚗 Featured Project
+### 💼 Experience
+
+**Fullstack Developer** at webjesus.seo (2024–present)
+- Building production SEO optimization sites and Telegram bot automation
+- Backend architecture with Python, PostgreSQL, Docker, Alembic migrations
+- API integrations: Gemini, Yandex Search API, Google AI
+- Deployed with Docker Compose in production environment
+
+---
+
+### 🚗 Featured Projects
 
 **[ParkTrack](https://github.com/ParkTrack-Project)** — AI-powered parking availability tracking system
 
-Real-time parking occupancy prediction with ML models (YOLOv12), route optimization, and load forecasting. Built with microservices architecture, Docker, and scalable backend.
+Team project with real-world ambitions. Real-time parking occupancy prediction with ML models (YOLOv12), route optimization, and load forecasting. Microservices architecture with Docker deployment.
 
-**Stack:** Python (ML), REST API, Docker Compose, PostgreSQL, Web frontend
+**Stack:** Python (ML/YOLO), REST API, Docker Compose, PostgreSQL, Web frontend, DevOps
 
 ---
 
@@ -28,8 +38,8 @@ Real-time parking occupancy prediction with ML models (YOLOv12), route optimizat
 
 **Languages**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
