@@ -8,15 +8,15 @@
 ### About me
 
 - Studying **Software Engineering** at ITMO University
-- Currently diving deep into **Java** and **Go**
+- Currently diving deep into **Go** and **Java**
 - Daily-driving Linux (CachyOS + Hyprland)
-- Reach me: **Kis-Ilya-A@ya.ru** · Telegram **@mentigen**
+- Reach me: **Kis-Ilya-A@ya.ru** · Telegram [**@mentigen**](https://t.me/Mentigen)
 
 ---
 
 ### 💼 Experience
 
-**Fullstack Developer** at webjesus.seo (2024–present)
+**Fullstack Developer** at [webjesus.seo](https://webjesus.ru/) (2024–present)
 - Building production SEO optimization sites and Telegram bot automation
 - Backend architecture with Python, PostgreSQL, Docker, Alembic migrations
 - API integrations: Gemini, Yandex Search API, Google AI
@@ -38,8 +38,8 @@ Team project with real-world ambitions. Real-time parking occupancy prediction w
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
