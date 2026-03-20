@@ -14,6 +14,16 @@
 
 ---
 
+### 🚗 Featured Project
+
+**[ParkTrack](https://github.com/ParkTrack-Project)** — AI-powered parking availability tracking system
+
+Real-time parking occupancy prediction with ML models (YOLOv12), route optimization, and load forecasting. Built with microservices architecture, Docker, and scalable backend.
+
+**Stack:** Python (ML), REST API, Docker Compose, PostgreSQL, Web frontend
+
+---
+
 ### Tech Stack
 
 **Languages**
