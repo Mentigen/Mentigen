@@ -87,7 +87,3 @@ Team project with real-world ambitions. Real-time parking occupancy prediction w
   <img src="https://github-readme-stats.vercel.app/api?username=Mentigen&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mentigen&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mentigen&theme=tokyonight&hide_border=true" />
-</div>
