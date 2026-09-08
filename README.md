@@ -26,7 +26,7 @@
 
 ### 🚗 Featured Projects
 
-**[ParkTrack](https://github.com/ParkTrack-Project)** — AI-powered parking availability tracking system
+**[ParkTrack](https://github.com/ParkTrack-Project)** -- AI-powered parking availability tracking system
 
 Team project with real-world ambitions. Real-time parking occupancy prediction with ML models (YOLOv12), route optimization, and load forecasting. Microservices architecture with Docker deployment.
 
