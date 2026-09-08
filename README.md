@@ -16,7 +16,7 @@
 
 ### 💼 Experience
 
-**Fullstack Developer** at [webjesus.seo](https://webjesus.ru/) (2024–present)
+**Fullstack Developer** at [webjesus.seo](https://webjesus.ru/) (Sep. 2025 -- Sep. 2026)
 - Building production SEO optimization sites and Telegram bot automation
 - Backend architecture with Python, PostgreSQL, Docker, Alembic migrations
 - API integrations: Gemini, Yandex Search API, Google AI
